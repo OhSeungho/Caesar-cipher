@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\OhSeungho\source\repos\200401_caesar\200401_caesar\소스.cpp(7,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\OhSeungho\source\repos\200401_caesar\200401_caesar\소스.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  200401_caesar.vcxproj -> C:\Users\OhSeungho\source\repos\200401_caesar\Debug\200401_caesar.exe
